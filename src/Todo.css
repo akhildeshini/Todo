@@ -1,0 +1,25 @@
+.btn {
+  background-color: aqua;
+  text-align: center;
+  border-radius: 0.5rem;
+  width: 10%;
+  height: 35px;
+  cursor: pointer;
+}
+.btn:active {
+  transform: scale(1.1);
+}
+.inp {
+  border-radius: 0.5rem;
+  width: 40%;
+  height: 35px;
+  background-color: white;
+}
+.divid {
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin-top: 3rem;
+  justify-content: center;
+  margin-bottom: 3rem;
+}

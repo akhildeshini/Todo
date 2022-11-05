@@ -1,0 +1,40 @@
+.link {
+  display: flex;
+  /* justify-content: center; */
+  padding: 1rem;
+  height: auto;
+}
+p {
+  font-weight: bold;
+}
+.check {
+  width: 25px;
+  height: 25px;
+  margin-right: 1rem;
+}
+.page {
+  background-color: skyblue;
+  width: 50%;
+  margin-top: auto;
+  margin-bottom: auto;
+  border-radius: 0.25rem;
+  box-shadow: 5px 10px #888888;
+}
+.ctbtn {
+  background: none;
+  margin-left: auto;
+  cursor: pointer;
+  border: none;
+  width: 20px;
+  height: 25px;
+}
+.ctbtn:active {
+  transform: scale(1.1);
+}
+.act {
+  border-radius: 0.75rem;
+  background-color: pink;
+  margin: 1rem;
+  width: 100px;
+  height: 35px;
+}
